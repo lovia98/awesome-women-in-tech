@@ -113,3 +113,4 @@
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
 | 홍유정 | https://youjungeee.github.io | 프론트엔드 개발자 | 서울 | |
+| 한주희 | https://lovia98.github.io/studynote / https://github.com/lovia98 | backend Developer | 서울 |[![](icons/linkedin-icon.png)](https://www.linkedin.com/in/juhee-han-06560915b/) |
